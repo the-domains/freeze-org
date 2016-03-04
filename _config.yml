@@ -1,0 +1,28 @@
+name: Freeze.org
+favicon: null
+layout_spectrum: 0.8872496108524501
+typography_spectrum: 0.6771704067941755
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.17112823924981058
+  lightness: 0.19833053788170218
+  saturation: 0.9213313707150519
+  rhythmicContrast: 0.4395020352676511
+purpose: []
